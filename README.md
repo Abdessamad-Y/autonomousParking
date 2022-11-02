@@ -2,6 +2,8 @@
 
 ### the goal of this project is to stimulate real life autonomous parking with unity
 
+![Capture](https://user-images.githubusercontent.com/80596901/199565710-a1f3fa4c-80b5-407c-b464-871627056863.JPG)
+![Capture01](https://user-images.githubusercontent.com/80596901/199565737-fe196972-34f5-477a-88c0-f8c9a0fd3624.JPG)
 
 ## Installation
 ### 1) First clone the repository somewhere you like
